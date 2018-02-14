@@ -8,6 +8,8 @@ import java.util.Random;
 import java.util.Scanner;
 import java.math.*;
 
+// orlando
+// iwan
 public class main extends Thread{
 	
 	static Semaphore CustQueue = new Semaphore(0,false); // number of customer in the queue
