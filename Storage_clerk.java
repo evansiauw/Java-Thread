@@ -5,7 +5,7 @@ public class Storage_clerk extends main implements Runnable{
 	public static void msg(String m) {
 		System.out.println("["+(System.currentTimeMillis()-time)+"] " + currentThread().getName()+": "+m); }
 	
-			
+	//test test
 	public void run(){
 		
 		Longsleep();
